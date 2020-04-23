@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+    <title>Thiết kế web</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<table border="1">
+        <tbody><tr>
+            <th>STT</th>
+            <th>Họ tên</th>
+            <th>GVHD</th>
+            <th>Lịch gặp GVHD</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Nguyễn Lê Thu Trang</td>
+            <td rowspan="3">Th.S Hồ Sỹ Tuy Đức</td>
+            <td rowspan="3">08/03/2018</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Nguyễn Thị Diễm</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Phạm Thị Hồng Đào</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Nguyễn Thị Kim Sa</td>
+            <td rowspan="3">Th.S Phạm Thị Huyền Quyên</td>
+            <td rowspan="3">05/03/2018</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Lê Thị Trang</td>
+        </tr>
+    </tbody></table>
+
+</body></html>
